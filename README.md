@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reese</h1>
 <h3 align="center">A passionate developer from Michigan</h3>
 
-- 🔭 I’m currently working on [Snake Game](https://github.com/rgerjeki/Snake-Game)
+- 🔭 I’m currently working on [Python for Everybody Repository](https://github.com/rgerjeki/Python-for-Everybody)
 
 - 🌱 I’m currently learning **Java**
 
