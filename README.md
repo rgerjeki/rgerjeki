@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reese</h1>
 <h3 align="center">Computer Science / Cyber Security student from Michigan</h3>
 
-- 🔭 I’m currently working on [The Univeristy of Michigan-Dearbron Chess Club](https://github.com/UMDCC)
-
-- 🌱 I’m currently learning **Java**
-
 - 👨‍💻 All of my projects are available at [https://github.com/rgerjeki](https://github.com/rgerjeki)
 
 - 📝 I regularly write articles on [https://rgerjeki.github.io/](https://rgerjeki.github.io/)
