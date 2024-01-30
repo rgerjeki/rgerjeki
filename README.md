@@ -3,11 +3,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rgerjeki](https://github.com/rgerjeki)
 
-- 📝 I regularly write articles on [https://rgerjeki.github.io/](https://rgerjeki.github.io/)
+- 📝 I regularly write articles on [https://www.reg-blog.com](https://www.reg-blog.com)
 
 - 📫 How to reach me **rgerjeki@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/reese-gerjekian-b82610199/](https://www.linkedin.com/in/rgerjeki/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/rgerjeki/](https://www.linkedin.com/in/rgerjeki/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
