@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reese</h1>
-<h3 align="center">Computer Science / Cyber Security student from Michigan</h3>
+<h3 align="center">Cyber Operations student from Michigan</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rgerjeki](https://github.com/rgerjeki)
 
