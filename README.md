@@ -7,7 +7,7 @@
 
 - 📫 How to reach me - **rgerjeki@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rgerjeki/](https://www.linkedin.com/in/rgerjeki/)
+- 📄 More about my professional experiences - [https://www.linkedin.com/in/rgerjeki/](https://www.linkedin.com/in/rgerjeki/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
