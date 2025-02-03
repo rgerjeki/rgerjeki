@@ -5,7 +5,7 @@
 
 - 📝 I (try to 😅) regularly write articles on [https://regblog.github.io](https://regblog.github.io)
 
-- 📫 How to reach me **rgerjeki@gmail.com**
+- 📫 How to reach me - **rgerjeki@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rgerjeki/](https://www.linkedin.com/in/rgerjeki/)
 
