@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rgerjeki](https://github.com/rgerjeki)
 
-- 📝 I regularly write articles on [https://www.reg-blog.com](https://www.reg-blog.com)
+- 📝 I (try to 😅) regularly write articles on [https://regblog.github.io](https://regblog.github.io)
 
 - 📫 How to reach me **rgerjeki@gmail.com**
 
